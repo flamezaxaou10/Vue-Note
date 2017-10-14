@@ -1,3 +1,6 @@
+#Member of project
+5806021630151 ศิลวัต ลีลาศ
+5806021630126 พีรพล สวัสดี
 # vue-project
 
 > A Vue.js project
